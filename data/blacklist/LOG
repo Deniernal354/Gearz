@@ -1,0 +1,14 @@
+2017/10/12-08:10:31.099 ebc Recovering log #740
+2017/10/12-08:10:31.100 ebc Level-0 table #742: started
+2017/10/12-08:10:31.187 ebc Level-0 table #742: 180 bytes OK
+2017/10/12-08:10:31.283 ebc Delete type=0 #740
+2017/10/12-08:10:31.284 ebc Delete type=3 #738
+2017/10/12-08:10:31.288 c70 Compacting 4@0 + 1@1 files
+2017/10/12-08:10:31.320 c70 Generated table #744@0: 1 keys, 180 bytes
+2017/10/12-08:10:31.320 c70 Compacted 4@0 + 1@1 files => 180 bytes
+2017/10/12-08:10:31.339 c70 compacted to: files[ 0 1 0 0 0 0 0 ]
+2017/10/12-08:10:31.340 c70 Delete type=2 #731
+2017/10/12-08:10:31.340 c70 Delete type=2 #733
+2017/10/12-08:10:31.341 c70 Delete type=2 #736
+2017/10/12-08:10:31.341 c70 Delete type=2 #739
+2017/10/12-08:10:31.341 c70 Delete type=2 #742

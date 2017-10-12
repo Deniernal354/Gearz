@@ -1,0 +1,27 @@
+{
+  "ownerIDs" : ["279550792774582272"],
+  "authorizeIDs" : [],
+  "prefix" : "!",
+  "clientID" :  "346701164768657408",
+  "moneyEmoji" : "358526655909724162",
+  "moneyDaily" : 50,
+  "defaultSettings" : {
+    "prefix": "!",
+    "userLog" : "false",
+    "userLogType" : "1",
+    "logChannel" : "None",
+    "antiInvite" : "true",
+    "autoRole" : "None",
+    "joinMsg" : "Welcome {user} to {server}!",
+    "leaveMsg" : "Bye Bye {user}",
+	"modLog" : "None",
+	"starboard" : "None",
+    "dCommands" : ["None"],
+    "uBlacklist" : ["None"],
+    "dChannels" : ["None"]
+  },
+  "moneyAccount" : {
+    "money": 50,
+    "timeLeft": 1
+  }
+}
